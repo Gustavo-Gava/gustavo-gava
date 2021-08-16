@@ -7,4 +7,5 @@ I'm a front-end developer passionate about technology. I have experience with my
 * See my linkedin: [Gustavo Gava](www.linkedin.com/in/gustavo-gava)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-gava)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava)](https://github.com/anuraghazra/github-readme-stats)
 
