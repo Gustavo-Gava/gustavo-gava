@@ -1,6 +1,4 @@
-# gustavo-gava
- 
-# Hi there 
+# Hi there 😄
 
 I'm a front-end developer passionate about technology. I have experience with my own projects, where I used HTML, CSS, Javascript, React and Node.js. Currently taking the Ignite course, focusing on Rocketseat's React track. 
 
