@@ -6,7 +6,11 @@ I'm a front-end developer passionate about technology. I have experience with my
 * 📖 I have experience with CSS, Javascript e React.
 * See my linkedin: [Gustavo Gava](www.linkedin.com/in/gustavo-gava)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-gava)](https://github.com/gustavo-gava)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/gustavo-gava)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)](https://github.com/gustavo-gava)
+
+
+
+
 
 
