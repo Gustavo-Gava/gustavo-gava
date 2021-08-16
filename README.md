@@ -5,3 +5,6 @@ I'm a front-end developer passionate about technology. I have experience with my
 * 🚀 I'm currently taking the ignite course.
 * 📖 I have experience with CSS, Javascript e React.
 * See my linkedin: [Gustavo Gava](www.linkedin.com/in/gustavo-gava)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-gava)](https://github.com/anuraghazra/github-readme-stats)
+
