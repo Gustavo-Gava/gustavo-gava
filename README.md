@@ -1,6 +1,6 @@
 # Hi there 😄
 
-I'm a front-end developer passionate about technology. I have experience with my own projects, where I used HTML, CSS, Javascript, React and Node.js. Currently taking the Ignite course, focusing on Rocketseat's React track. 
+I'm a front-end developer passionate about technology. I have experience with my own projects, where I used React, Typescript, Nextjs and Styled Components. Currently taking the Ignite course, focusing on Rocketseat's React track. 
 
 * 🚀 I'm currently taking the ignite course.
 * 📖 I have experience with Typescript, React and Sass.
