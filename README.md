@@ -1,8 +1,8 @@
 # Hi there 😄
 
-I'm a front-end developer passionate about technology. I have experience with my own projects, where I used React, Typescript, Nextjs and Styled Components. Currently taking the Ignite course, focusing on Rocketseat's React track. 
+I'm a front-end developer passionate about technology. I have experience with my own projects, and with my work at Arkos Digital, where I used React, React Native, Typescript, Nextjs and Styled Components.
 
-* 🚀 I'm currently taking the ignite course.
+* 🚀 I'm currently working at Arkos Digital as a react and react native developer.
 * 📖 I have experience with Typescript, React and Sass.
 * See my linkedin: [Gustavo Gava](www.linkedin.com/in/gustavo-gava)
 
