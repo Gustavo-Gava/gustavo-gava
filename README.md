@@ -1,16 +1,32 @@
-# Hi there 😄
+### Hi! I'm Gustavo Gava 🖐
 
-I'm a front-end developer passionate about technology. I have experience with my own projects, and with my work at Arkos Digital, where I used React, React Native, Typescript, Nextjs and Styled Components.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]("https://github.com/Gustavo-Gava")
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
 
-* 🚀 I'm currently working at Arkos Digital as a React and React Native Developer.
-* 📖 I'm always looking for knowledge in order to develop myself as a person and developer.
-* See my linkedin: [Gustavo Gava](www.linkedin.com/in/gustavo-gava)
+### About me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)](https://github.com/gustavo-gava)
+* 💼 Working at Arkos Digital as React and React Native developer
+* 🚀 Studying about improve performance and good practices at React
+* ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 
+<div style="display: inline_block"> <br/>
+   <img align="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="html" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="html" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img align="center" alt="html" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+ </div><br />
 
+### Get in touch
 
-
-
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
