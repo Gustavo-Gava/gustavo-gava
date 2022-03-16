@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Gava)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/gustavo-gava)
 
+
 ### About me
 
 * 💼 Working at Arkos Digital as React and React Native developer
