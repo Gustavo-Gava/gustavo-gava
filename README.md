@@ -10,11 +10,8 @@
 * 🚀 Studying about improve performance and good practices at React
 * ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gustavo-gava">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 <div style="display: inline_block"> <br/>
@@ -27,6 +24,6 @@
 
 ### Get in touch
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]("mailto:gustavogava123@hotmail.com?Subject=Gustavo%20Gava")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:gustavogiuriato460@gmail.com?Subject=Gustavo%20Gava")
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]("www.linkedin.com/in/gustavo-gava")
