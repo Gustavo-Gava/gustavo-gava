@@ -12,8 +12,8 @@
 * ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
 <a href="https://github.com/gustavo-gava">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 <div style="display: inline_block"> <br/>
