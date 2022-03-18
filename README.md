@@ -13,6 +13,7 @@
 
 <a href="https://github.com/gustavo-gava">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-gava&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gava&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 <div style="display: inline_block"> <br/>
@@ -23,8 +24,12 @@
    <img align="center" alt="html" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  </div><br />
 
+
 ### Get in touch
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavogava123@hotmail.com?Subject=Gustavo%20Gava)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavogiuriato460@gmail.com?Subject=Gustavo%20Gava)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/gustavo-gava)
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
