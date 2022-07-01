@@ -2,7 +2,7 @@
 
 ### About me
 
-* 💼 Working at Arkos Digital as React and React Native developer
+* 💼 Working at Codeby as React and VTEX Developer
 * 🚀 Studying about improve performance and good practices at React
 * ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
