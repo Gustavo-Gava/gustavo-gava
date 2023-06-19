@@ -2,7 +2,7 @@
 
 ### About me
 
-* 💼 Working at [Codeby](https://codeby.global/) as React and VTEX Developer
+* 💼 Working as React Developer Freelancer
 * 🚀 Studying about improve performance and good practices at React
 * ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
