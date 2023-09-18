@@ -2,7 +2,7 @@
 
 ### About me
 
-* 💼 Working as React Developer Freelancer
+* 💼 Working as React Developer at @mindminers
 * 🚀 Studying about improve performance and good practices at React
 * ☀  I love to study on different subjects, such as philosophy, neuroscience, sports, etc.
 
